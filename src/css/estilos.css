@@ -1,0 +1,53 @@
+body
+{
+    font-family: 'Roboto Mono', monospace;
+    background-color: #cbaff8;
+}
+
+
+.container
+{
+
+    margin: 5% auto;
+    justify-content: center;
+    max-width: 300px;
+    min-height: 60vh;
+}
+
+.container .qr-code
+{
+    margin: 8% ;
+    max-width: 250px;
+    border-radius: 20px;
+}
+
+.container .titulo
+{
+    margin: 8%;
+    color: black;
+    width: 85%;
+    font-size: 18px;
+    text-align: center;
+}
+
+.container .texto
+{
+    margin: 8%;
+    color: #515358;
+    width: 85%;
+    font-size: 18px;
+    text-align: center;
+}
+
+.container .botao-link
+{
+    background-color: deeppink;
+    width: 120px;
+    color: #fff;
+    padding: 10px;
+    cursor: pointer;
+    border: none;
+    border-radius: 7px;
+    margin: 0 29%;
+    transition: 0.5s all ease-in-out;
+}
