@@ -51,3 +51,10 @@ body
     margin: 0 29%;
     transition: 0.5s all ease-in-out;
 }
+
+.rodape 
+{
+    text-align: center;
+    font-size: 10px;
+    color: #515358;
+}
