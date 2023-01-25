@@ -1,4 +1,4 @@
-const url = 'http://127.0.0.1:5501/'
+const url = 'https://theythemlu.github.io/linksummer/'
 const btn = document.querySelector ('#btn')
 
 function openInNewTab(url) {
